@@ -232,7 +232,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"rayshud"
+		"labelText"		"gethud"
 		"font"			"HudFontMediumSecondary"
 		"textAlignment"	"west"
 		"textinsetx"	"0"
@@ -242,7 +242,7 @@
 		"default"		"1"
 		"paintbackground""0"
 		"sound_depressed"	""
-		"sound_released"	"UI/wooo_tree.wav"
+		"sound_released"	"UI/uh.wav"
 
 		"defaultFgColor_override" "TanLight"
 		"armedFgColor_override" "ColorCyan"

@@ -18,18 +18,18 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabel"
-		"font"				"Cerbetica28"
-		"xpos"				"20"
-		"ypos"				"0"
+		"font"				"Cerbetica22"
+		"xpos"				"0"
+		"ypos"				"1"
 		"zpos"				"2"
-		"wide"				"380"
-		"tall"				"25"
+		"wide"				"125"
+		"tall"				"22"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"#Hud_menu_demolish_title"
-		"textAlignment"		"west"
+		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
 	}
@@ -38,19 +38,19 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabelDropshadow"
-		"font"				"Cerbetica28"
+		"font"				"Cerbetica22"
 		"fgcolor"			"TransparentBlack"
 		"xpos"				"-2"
 		"ypos"				"-2"
-		"zpos"				"1"
-		"wide"				"380"
-		"tall"				"25"
+		"zpos"				"2"
+		"wide"				"125"
+		"tall"				"22"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"#Hud_menu_demolish_title"
-		"textAlignment"		"west"
+		"textAlignment"		"center"
 		"dulltext"			"1"
 		"brighttext"		"0"
 		"pin_to_sibling"	"TitleLabel"
@@ -60,18 +60,18 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"CancelLabel"
-		"font"				"SpectatorKeyHints"
+		"font"				"HudFontSmallest"
 		"xpos"				"0"
-		"ypos"				"8"
+		"ypos"				"130"
 		"zpos"				"1"
-		"wide"				"395"
+		"wide"				"125"
 		"tall"				"13"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"#Hud_Menu_Build_Cancel"
-		"textAlignment"		"east"
+		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
 	}
@@ -80,11 +80,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"active_item_1"
-		"xpos"				"0"
+		"xpos"				"5"
 		"ypos"				"20"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -92,11 +92,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"active_item_2"
-		"xpos"				"100"
+		"xpos"				"65"
 		"ypos"				"20"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -104,11 +104,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"active_item_3"
-		"xpos"				"200"
-		"ypos"				"20"
+		"xpos"				"5"
+		"ypos"				"70"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -116,11 +116,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"active_item_4"
-		"xpos"				"300"
-		"ypos"				"20"
+		"xpos"				"65"
+		"ypos"				"70"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -128,11 +128,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"inactive_item_1"
-		"xpos"				"0"
+		"xpos"				"5"
 		"ypos"				"20"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -140,11 +140,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"inactive_item_2"
-		"xpos"				"100"
+		"xpos"				"65"
 		"ypos"				"20"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -152,11 +152,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"inactive_item_3"
-		"xpos"				"200"
-		"ypos"				"20"
+		"xpos"				"5"
+		"ypos"				"70"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -164,11 +164,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"inactive_item_4"
-		"xpos"				"300"
-		"ypos"				"20"
+		"xpos"				"65"
+		"ypos"				"70"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -176,11 +176,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"unavailable_item_1"
-		"xpos"				"0"
+		"xpos"				"5"
 		"ypos"				"20"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -188,11 +188,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"unavailable_item_2"
-		"xpos"				"100"
+		"xpos"				"65"
 		"ypos"				"20"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -200,11 +200,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"unavailable_item_3"
-		"xpos"				"200"
-		"ypos"				"20"
+		"xpos"				"5"
+		"ypos"				"70"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -212,11 +212,11 @@
 	{
 		"ControlName"		"CEngyDestroyMenuItem"
 		"fieldName"			"unavailable_item_4"
-		"xpos"				"300"
-		"ypos"				"20"
+		"xpos"				"65"
+		"ypos"				"70"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"130"
+		"wide"				"60"
+		"tall"				"55"
 		"visible"			"1"
 	}
 
@@ -227,11 +227,11 @@
 		"xpos"				"0"
 		"ypos"				"20"
 		"zpos"				"1"
-		"wide"				"400"
-		"tall"				"120"
+		"wide"				"125"
+		"tall"				"110"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"TransparentBlack"
+		"bgcolor_override"	"HudBlack"
 		"PaintBackgroundType"	"2"
 	}
 }
