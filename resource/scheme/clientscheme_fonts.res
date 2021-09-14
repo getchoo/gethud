@@ -124,6 +124,26 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"BebasNeueBold56"
+		{
+			"1"
+			{
+				"name"			"BebasNeueBold"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"BebasNeueBold32"
+		{
+			"1"
+			{
+				"name"			"BebasNeueBold"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
         "BebasNeue20"
 		{
 			"1"
@@ -578,6 +598,18 @@ Scheme
 				"weight"		"500"
 				"additive"		"0"
 				"antialias"		"1"
+			}
+		}
+		"HudFontMediumShadow"
+		{
+			"1"
+			{
+				"name"			"BebasNeueBold"
+				"tall"			"24"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias"		"1"
+				"dropshadow"	"1"
 			}
 		}
 		"HudFontMediumSecondary"
